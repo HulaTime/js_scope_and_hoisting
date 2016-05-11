@@ -146,7 +146,8 @@ Function assignment does not get hoisted on runtime and as a result a named func
 What is the difference between function level scope and block level scope?
 
 ```
-
+Information available here, need to complete a definition for function and block level scope at a later time scope!...
+https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch3.md
 
 ```
 
